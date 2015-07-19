@@ -1,6 +1,6 @@
 
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: "Reproducible Research Peer Assessment 1"
 date: "Sunday, July 19, 2015"
 output: html_document
 
