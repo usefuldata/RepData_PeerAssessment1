@@ -1,8 +1,9 @@
 ---
-title: "Reproducible Research Submission 1"
-author: "Utpal Datta"
+title: "Reproducible Research: Peer Assessment 1"author: "Utpal Datta"
+output: 
+  html_document: PA1_template.html
+    keep_md: true
 date: "Friday, July 17, 2015"
-output: html_document
 ---
 
 
